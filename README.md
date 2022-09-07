@@ -24,7 +24,7 @@ telegramm: @konst_dav
 Дипломы:  https://github.com/junecat/Resume/blob/main/diplomas-1.jpg  
 https://github.com/junecat/Resume/blob/main/diplomas-2.jpg  
 
-У меня хороший рейтинг на стековерфлоу, вхожу в 2% лучших "отвечальщиков" за год:  
+У меня хороший рейтинг на стековерфлоу, вхожу в 1% лучших "отвечальщиков" за год:  
 https://ru.stackoverflow.com/users/205151/s-h  
 
 **Достижения в картинках:**
